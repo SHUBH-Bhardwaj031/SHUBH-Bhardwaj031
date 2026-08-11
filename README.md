@@ -5,77 +5,26 @@
 ### 🚀 MERN Stack Developer | Full-Stack Developer | AI Enthusiast
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHUBH-Bhardwaj031&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/SHUBH-Bhardwaj031?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SHUBH-Bhardwaj031&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SHUBH-Bhardwaj031?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-bhardwaj031">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shubhambhardwaj10oct@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/shubh_031/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/shubhambhardwa33">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
 </p>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHUBH-Bhardwaj031&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=SHUBH-Bhardwaj031&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,java,git,github,postman,figma,aws,firebase" />
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUBH-Bhardwaj031&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</p>
-
----
-
-# 📌 GitHub Overview
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHUBH-Bhardwaj031&theme=tokyonight" alt="GitHub Profile Overview" />
-
-</p>
-
----
-
-# 📊 Languages by Repository & Commit
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHUBH-Bhardwaj031&theme=tokyonight" alt="Languages by Repository" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHUBH-Bhardwaj031&theme=tokyonight" alt="Languages by Commit" />
-
-</p>
 
 ---
 
@@ -97,28 +46,180 @@ Currently exploring **Generative AI, Python Full Stack, Next.js and TypeScript**
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GitHub Stats
 
 <p align="center">
 
-<a href="https://github.com/SHUBH-Bhardwaj031/Bingo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBH-Bhardwaj031&repo=Bingo&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SHUBH-Bhardwaj031&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats"/>
 
-<a href="https://github.com/SHUBH-Bhardwaj031/Expense-Mate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBH-Bhardwaj031&repo=Expense-Mate&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<img height="180" src="https://streak-stats.demolab.com/?user=SHUBH-Bhardwaj031&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
 
 </p>
 
+---
+
+# 🛠️ Tech Stack
+
 <p align="center">
 
-<a href="https://github.com/SHUBH-Bhardwaj031/Job-Dhundho">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBH-Bhardwaj031&repo=Job-Dhundho&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,java,git,github,postman,figma,aws,firebase" alt="Tech Stack"/>
 
-<a href="https://github.com/SHUBH-Bhardwaj031/Ai-component-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHUBH-Bhardwaj031&repo=Ai-component-generator&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+# 📊 GitHub Activity & Overview
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUBH-Bhardwaj031&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity&height=280" width="100%" alt="Contribution Activity Graph"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📌 GitHub Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHUBH-Bhardwaj031&theme=tokyonight" width="100%" alt="GitHub Profile Overview"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Languages by Repository & Commit
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHUBH-Bhardwaj031&theme=tokyonight" width="48%" alt="Languages by Repository"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHUBH-Bhardwaj031&theme=tokyonight" width="48%" alt="Languages by Commit"/>
+
+</p>
+
+---
+
+# 📌 Pinned Repositories
+
+<p align="center">
+  <i>Selected projects and recent work</i>
+</p>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🍔 [Bingo](https://github.com/SHUBH-Bhardwaj031/Bingo)
+
+**Food Delivery Website**
+
+Bingo is a food delivery platform designed to provide users with a simple and convenient way to discover and order food.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/github/stars/SHUBH-Bhardwaj031/Bingo?style=flat-square&logo=github" alt="Stars"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 [Job-Dhundho](https://github.com/SHUBH-Bhardwaj031/Job-Dhundho)
+
+**Job Portal**
+
+A web-based job portal project focused on helping users discover and explore job opportunities.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/github/stars/SHUBH-Bhardwaj031/Job-Dhundho?style=flat-square&logo=github" alt="Stars"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 [Expense-Mate](https://github.com/SHUBH-Bhardwaj031/Expense-Mate)
+
+**Expense Management Application**
+
+An application for tracking and managing personal expenses and financial activity.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/github/stars/SHUBH-Bhardwaj031/Expense-Mate?style=flat-square&logo=github" alt="Stars"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 [AI Component Generator](https://github.com/SHUBH-Bhardwaj031/Ai-component-generator)
+
+**AI-Powered Component Generator**
+
+An AI-powered project focused on generating reusable web components using Generative AI.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/github/stars/SHUBH-Bhardwaj031/Ai-component-generator?style=flat-square&logo=github" alt="Stars"/>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌤️ [Weather-App](https://github.com/SHUBH-Bhardwaj031/Weather-App)
+
+**Weather Application**
+
+A responsive weather application for checking current weather information through a clean interface.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/github/stars/SHUBH-Bhardwaj031/Weather-App?style=flat-square&logo=github" alt="Stars"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 [My-Portfolio](https://github.com/SHUBH-Bhardwaj031/My-Portfolio)
+
+**Personal Portfolio**
+
+My personal developer portfolio showcasing my skills, projects and development journey.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/github/stars/SHUBH-Bhardwaj031/My-Portfolio?style=flat-square&logo=github" alt="Stars"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<a href="https://github.com/SHUBH-Bhardwaj031?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="View All Repositories"/>
 </a>
 
 </p>
@@ -130,23 +231,23 @@ Currently exploring **Generative AI, Python Full Stack, Next.js and TypeScript**
 <p align="center">
 
 <a href="https://github.com/SHUBH-Bhardwaj031">
-<img src="https://img.shields.io/badge/GitHub-SHUBH--Bhardwaj031-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-SHUBH--Bhardwaj031-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-bhardwaj031">
-<img src="https://img.shields.io/badge/LinkedIn-Shubham%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Shubham%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:shubhambhardwaj10oct@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shubhambhardwaj10oct-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://leetcode.com/u/shubh_031/">
-<img src="https://img.shields.io/badge/LeetCode-shubh__031-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-shubh__031-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/shubhambhardwa33">
-<img src="https://img.shields.io/badge/HackerRank-shubhambhardwa33-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-shubhambhardwa33-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
 </a>
 
 </p>
